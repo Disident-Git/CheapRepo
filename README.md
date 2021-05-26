@@ -13,7 +13,12 @@ Biggest problem in privacy is Identity. If you don't have identity, you don't ev
 
 > Disclaimer - This is attempt to make useful, webapp. I cannot guarantee 100% safety.
 
-To read more, visit - 
+>git clone https://github.com/Disident-Git/CheapRepo/
+>cd Disident-Git
+>npm i
+>node app.js
+
+To read more, visit - https://github.com/Disident-Git/CheapRepo/
 ___
 
 
