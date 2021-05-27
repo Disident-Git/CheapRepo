@@ -1,6 +1,8 @@
 # Welcome everyone! 
 
 ## Open Cryptochat 
+## This is continued project or fork per say. Credit goes to and hats off to https://github.com/triestpa/Open-Cryptochat
+## Make sure you check his github
 
 Introduction. 
 
